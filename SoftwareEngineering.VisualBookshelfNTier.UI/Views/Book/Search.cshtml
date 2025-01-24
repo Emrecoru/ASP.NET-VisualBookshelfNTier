@@ -1,0 +1,92 @@
+﻿@model BookListResult
+@{
+    Layout = "_Layout";
+}
+
+<!-- Masthead-->
+<img style="width:1903px; height:72px" src="https://ticari.tarkett.com.tr/media/img/M/THH_25121916_25131916_25126916_25136916_001.jpg" />
+
+<div class="mt-4">
+    <form asp-action="Search" asp-controller="Book" method="post" class="p-4 w-75 mx-auto">
+        <div class="mb-3 text-end">
+            <input type="text" name="searchTerm" class="form-control" />
+        </div>
+        <button type="submit" class="btn btn-primary">Search</button>
+    </form>
+</div>
+
+<div class="container mt-5">
+    <div class="row">
+        @{
+            if (Model.Results != null)
+            {
+                foreach (var item in Model.Results)
+                {
+                    <div class="col-3 mt-3">
+                        <div class="card" style="width: 18rem; height: 45rem">
+                            @{
+                                string imgUrl;
+                                if (@item.Formats.TryGetValue("image/jpeg", out imgUrl))
+                                {
+                                    <img src="@imgUrl" style="height: 30rem" class="card-img-top" alt="...">
+                                }
+                                else
+                                {
+                                    <img style="height: 30rem" src="https://t3.ftcdn.net/jpg/04/62/93/66/360_F_462936689_BpEEcxfgMuYPfTaIAOC1tCDurmsno7Sp.jpg" class="card-img-top" alt="...">
+                                }
+                            }
+                            <div class="card-body">
+                                <h5 class="card-title">@item.Title</h5>
+                                <p class="card-text">
+                                    @{
+                                        if (item.Authors != null && item.Authors.Length > 0)
+                                        {
+                                        <p>@item.Authors[0].Name</p>
+                                        }
+                                    }
+                                </p>
+                            </div>
+                            <div class="card-body">
+                                @{
+                                    string txtUrl;
+                                    if (@item.Formats.TryGetValue("text/html", out txtUrl))
+                                    {
+
+                                        <a href="@txtUrl" target="_blank" class="card-link text-info">Read</a>
+                                    }
+                                }
+                                <a href="#" class="add-to-favorites card-link text-danger" data-book-id="@item.Id">Add to Favorites</a>
+                            </div>
+                        </div>
+                    </div>
+                }
+            }
+
+                
+        }
+    </div>
+</div>
+
+<p style="height:535px;"></p>
+
+<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $(".add-to-favorites").on("click", function (e) {
+            e.preventDefault();
+            var bookId = $(this).data("book-id");
+
+            $.ajax({
+                url: "/Book/Favorite/" + bookId,
+                type: "POST",
+                success: function () {
+                    // Başarıyla favoriye eklendiğini bildirme veya gerekirse başka bir işlem yapma
+                    alert("Book added to favorites!");
+                },
+                error: function () {
+                    alert("Book added to favorites!");
+                }
+            });
+        });
+    });
+</script>

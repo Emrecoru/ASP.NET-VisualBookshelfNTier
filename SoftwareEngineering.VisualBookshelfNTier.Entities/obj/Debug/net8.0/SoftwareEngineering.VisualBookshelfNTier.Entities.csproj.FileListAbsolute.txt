@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\SoftwareEngineering.VisualBookshelfNTier\SoftwareEngineering.VisualBookshelfNTier.Entities\bin\Debug\net8.0\SoftwareEngineering.VisualBookshelfNTier.Entities.deps.json
+C:\Users\pc\source\repos\SoftwareEngineering.VisualBookshelfNTier\SoftwareEngineering.VisualBookshelfNTier.Entities\bin\Debug\net8.0\SoftwareEngineering.VisualBookshelfNTier.Entities.dll
+C:\Users\pc\source\repos\SoftwareEngineering.VisualBookshelfNTier\SoftwareEngineering.VisualBookshelfNTier.Entities\bin\Debug\net8.0\SoftwareEngineering.VisualBookshelfNTier.Entities.pdb
+C:\Users\pc\source\repos\SoftwareEngineering.VisualBookshelfNTier\SoftwareEngineering.VisualBookshelfNTier.Entities\obj\Debug\net8.0\SoftwareEngineering.VisualBookshelfNTier.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\SoftwareEngineering.VisualBookshelfNTier\SoftwareEngineering.VisualBookshelfNTier.Entities\obj\Debug\net8.0\SoftwareEngineering.VisualBookshelfNTier.Entities.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\SoftwareEngineering.VisualBookshelfNTier\SoftwareEngineering.VisualBookshelfNTier.Entities\obj\Debug\net8.0\SoftwareEngineering.VisualBookshelfNTier.Entities.AssemblyInfo.cs
+C:\Users\pc\source\repos\SoftwareEngineering.VisualBookshelfNTier\SoftwareEngineering.VisualBookshelfNTier.Entities\obj\Debug\net8.0\SoftwareEngineering.VisualBookshelfNTier.Entities.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\SoftwareEngineering.VisualBookshelfNTier\SoftwareEngineering.VisualBookshelfNTier.Entities\obj\Debug\net8.0\SoftwareEngineering.VisualBookshelfNTier.Entities.dll
+C:\Users\pc\source\repos\SoftwareEngineering.VisualBookshelfNTier\SoftwareEngineering.VisualBookshelfNTier.Entities\obj\Debug\net8.0\refint\SoftwareEngineering.VisualBookshelfNTier.Entities.dll
+C:\Users\pc\source\repos\SoftwareEngineering.VisualBookshelfNTier\SoftwareEngineering.VisualBookshelfNTier.Entities\obj\Debug\net8.0\SoftwareEngineering.VisualBookshelfNTier.Entities.pdb
+C:\Users\pc\source\repos\SoftwareEngineering.VisualBookshelfNTier\SoftwareEngineering.VisualBookshelfNTier.Entities\obj\Debug\net8.0\ref\SoftwareEngineering.VisualBookshelfNTier.Entities.dll

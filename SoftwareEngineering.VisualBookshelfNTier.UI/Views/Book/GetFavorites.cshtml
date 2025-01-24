@@ -1,0 +1,84 @@
+﻿@model List<BookListDto>
+
+@{
+    Layout = "_Layout";
+}
+
+<img style="width:1903px; height:72px" src="https://ticari.tarkett.com.tr/media/img/M/THH_25121916_25131916_25126916_25136916_001.jpg" />
+
+<div class="container mt-5">
+    <div class="row">
+        @{
+            if (Model.Count > 0 )
+            {
+                foreach (var item in Model)
+                {
+                    <div class="col-3 mt-3">
+                        <div class="card" style="width: 18rem; height: 45rem">
+                            @{
+                                if (@item.imgUrl != null)
+                                {
+                                    <img src="@item.imgUrl" style="height: 30rem" class="card-img-top" alt="...">
+                                }
+                                else
+                                {
+                                    <img style="height: 30rem" src="https://t3.ftcdn.net/jpg/04/62/93/66/360_F_462936689_BpEEcxfgMuYPfTaIAOC1tCDurmsno7Sp.jpg" class="card-img-top" alt="...">
+                                }
+
+                            }
+                            <div class="card-body">
+
+                                <h5 class="card-title">@item.Title</h5>
+                                <p class="card-text">
+                                    @{
+                                        foreach (var author in item.BookAuthors)
+                                        {
+                                            if (item.BookAuthors != null && item.BookAuthors.Count > 0)
+                                            {
+                                            <p>@author.Author.Name</p>
+                                            }
+                                        }
+                                    }
+                                </p>
+                            </div>
+                            <div class="card-body">
+                                @{
+                                    if (@item.txtUrl != null)
+                                    {
+
+                                        <a href="@item.txtUrl" target="_blank" class="card-link text-info">Read</a>
+                                    }
+                                }
+                                <a asp-action="Delete" asp-controller="Book" class="add-to-favorites card-link text-danger" asp-route-bookId="@item.Id">Remove</a>
+                                <!--
+                                <a asp-action="Read" asp-controller="Book" asp-route-txtUrl="" class="card-link text-info">Read</a>
+                                <a asp-action="Read" asp-controller="Book" asp-route-id="" class="card-link text-info">Read</a>
+                                <a asp-action="Favorite" asp-controller="Book" asp-route-id="" class="card-link text-danger">Favorite</a>
+                                -->
+                            </div>
+                        </div>
+                    </div>
+                }
+            }
+            else
+            {
+                <!-- Masthead-->
+                <header>
+                    <div class="container px-4 px-lg-5 h-100">
+                        <div class="row gx-4 gx-lg-5 h-100 align-items-center justify-content-center text-center">
+                            <div class="col-lg-8 align-self-end">
+                                <h1 class="text-black font-weight-bold">There is no book in your favorites list!</h1>
+                                <hr class="divider" />
+                            </div>
+                        </div>
+                    </div>
+                </header>
+                <span style="height:550px;"> </span>
+            }
+
+                
+        }
+    </div>
+</div>
+
+<p style="height:20px;"></p>

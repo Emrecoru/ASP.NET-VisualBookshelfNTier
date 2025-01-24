@@ -1,0 +1,177 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\SoftwareEngineering.VisualBookshelfNTier\\SoftwareEngineering.VisualBookshelfNTier.UI\\wwwroot\\Themes\\startbootstrap-creative-gh-pages\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\Themes\\startbootstrap-creative-gh-pages\\assets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\SoftwareEngineering.VisualBookshelfNTier\\SoftwareEngineering.VisualBookshelfNTier.UI\\wwwroot\\Themes\\startbootstrap-creative-gh-pages\\assets\\img\\bg-masthead.jpg",
+      "PackagePath": "staticwebassets\\Themes\\startbootstrap-creative-gh-pages\\assets\\img\\bg-masthead.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\SoftwareEngineering.VisualBookshelfNTier\\SoftwareEngineering.VisualBookshelfNTier.UI\\wwwroot\\Themes\\startbootstrap-creative-gh-pages\\assets\\img\\portfolio\\fullsize\\1.jpg",
+      "PackagePath": "staticwebassets\\Themes\\startbootstrap-creative-gh-pages\\assets\\img\\portfolio\\fullsize\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\SoftwareEngineering.VisualBookshelfNTier\\SoftwareEngineering.VisualBookshelfNTier.UI\\wwwroot\\Themes\\startbootstrap-creative-gh-pages\\assets\\img\\portfolio\\fullsize\\2.jpg",
+      "PackagePath": "staticwebassets\\Themes\\startbootstrap-creative-gh-pages\\assets\\img\\portfolio\\fullsize\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\SoftwareEngineering.VisualBookshelfNTier\\SoftwareEngineering.VisualBookshelfNTier.UI\\wwwroot\\Themes\\startbootstrap-creative-gh-pages\\assets\\img\\portfolio\\fullsize\\3.jpg",
+      "PackagePath": "staticwebassets\\Themes\\startbootstrap-creative-gh-pages\\assets\\img\\portfolio\\fullsize\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\SoftwareEngineering.VisualBookshelfNTier\\SoftwareEngineering.VisualBookshelfNTier.UI\\wwwroot\\Themes\\startbootstrap-creative-gh-pages\\assets\\img\\portfolio\\fullsize\\4.jpg",
+      "PackagePath": "staticwebassets\\Themes\\startbootstrap-creative-gh-pages\\assets\\img\\portfolio\\fullsize\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\SoftwareEngineering.VisualBookshelfNTier\\SoftwareEngineering.VisualBookshelfNTier.UI\\wwwroot\\Themes\\startbootstrap-creative-gh-pages\\assets\\img\\portfolio\\fullsize\\5.jpg",
+      "PackagePath": "staticwebassets\\Themes\\startbootstrap-creative-gh-pages\\assets\\img\\portfolio\\fullsize\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\SoftwareEngineering.VisualBookshelfNTier\\SoftwareEngineering.VisualBookshelfNTier.UI\\wwwroot\\Themes\\startbootstrap-creative-gh-pages\\assets\\img\\portfolio\\fullsize\\6.jpg",
+      "PackagePath": "staticwebassets\\Themes\\startbootstrap-creative-gh-pages\\assets\\img\\portfolio\\fullsize\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\SoftwareEngineering.VisualBookshelfNTier\\SoftwareEngineering.VisualBookshelfNTier.UI\\wwwroot\\Themes\\startbootstrap-creative-gh-pages\\assets\\img\\portfolio\\thumbnails\\1.jpg",
+      "PackagePath": "staticwebassets\\Themes\\startbootstrap-creative-gh-pages\\assets\\img\\portfolio\\thumbnails\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\SoftwareEngineering.VisualBookshelfNTier\\SoftwareEngineering.VisualBookshelfNTier.UI\\wwwroot\\Themes\\startbootstrap-creative-gh-pages\\assets\\img\\portfolio\\thumbnails\\2.jpg",
+      "PackagePath": "staticwebassets\\Themes\\startbootstrap-creative-gh-pages\\assets\\img\\portfolio\\thumbnails\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\SoftwareEngineering.VisualBookshelfNTier\\SoftwareEngineering.VisualBookshelfNTier.UI\\wwwroot\\Themes\\startbootstrap-creative-gh-pages\\assets\\img\\portfolio\\thumbnails\\3.jpg",
+      "PackagePath": "staticwebassets\\Themes\\startbootstrap-creative-gh-pages\\assets\\img\\portfolio\\thumbnails\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\SoftwareEngineering.VisualBookshelfNTier\\SoftwareEngineering.VisualBookshelfNTier.UI\\wwwroot\\Themes\\startbootstrap-creative-gh-pages\\assets\\img\\portfolio\\thumbnails\\4.jpg",
+      "PackagePath": "staticwebassets\\Themes\\startbootstrap-creative-gh-pages\\assets\\img\\portfolio\\thumbnails\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\SoftwareEngineering.VisualBookshelfNTier\\SoftwareEngineering.VisualBookshelfNTier.UI\\wwwroot\\Themes\\startbootstrap-creative-gh-pages\\assets\\img\\portfolio\\thumbnails\\5.jpg",
+      "PackagePath": "staticwebassets\\Themes\\startbootstrap-creative-gh-pages\\assets\\img\\portfolio\\thumbnails\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\SoftwareEngineering.VisualBookshelfNTier\\SoftwareEngineering.VisualBookshelfNTier.UI\\wwwroot\\Themes\\startbootstrap-creative-gh-pages\\assets\\img\\portfolio\\thumbnails\\6.jpg",
+      "PackagePath": "staticwebassets\\Themes\\startbootstrap-creative-gh-pages\\assets\\img\\portfolio\\thumbnails\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\SoftwareEngineering.VisualBookshelfNTier\\SoftwareEngineering.VisualBookshelfNTier.UI\\wwwroot\\Themes\\startbootstrap-creative-gh-pages\\css\\styles.css",
+      "PackagePath": "staticwebassets\\Themes\\startbootstrap-creative-gh-pages\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\SoftwareEngineering.VisualBookshelfNTier\\SoftwareEngineering.VisualBookshelfNTier.UI\\wwwroot\\Themes\\startbootstrap-creative-gh-pages\\index.html",
+      "PackagePath": "staticwebassets\\Themes\\startbootstrap-creative-gh-pages\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\SoftwareEngineering.VisualBookshelfNTier\\SoftwareEngineering.VisualBookshelfNTier.UI\\wwwroot\\Themes\\startbootstrap-creative-gh-pages\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\Themes\\startbootstrap-creative-gh-pages\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\SoftwareEngineering.VisualBookshelfNTier\\SoftwareEngineering.VisualBookshelfNTier.UI\\wwwroot\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\SoftwareEngineering.VisualBookshelfNTier\\SoftwareEngineering.VisualBookshelfNTier.UI\\wwwroot\\assets\\img\\bg-masthead.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg-masthead.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\SoftwareEngineering.VisualBookshelfNTier\\SoftwareEngineering.VisualBookshelfNTier.UI\\wwwroot\\assets\\img\\navbar.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\navbar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\SoftwareEngineering.VisualBookshelfNTier\\SoftwareEngineering.VisualBookshelfNTier.UI\\wwwroot\\assets\\img\\navbar.png",
+      "PackagePath": "staticwebassets\\assets\\img\\navbar.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\SoftwareEngineering.VisualBookshelfNTier\\SoftwareEngineering.VisualBookshelfNTier.UI\\wwwroot\\assets\\img\\portfolio\\fullsize\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\fullsize\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\SoftwareEngineering.VisualBookshelfNTier\\SoftwareEngineering.VisualBookshelfNTier.UI\\wwwroot\\assets\\img\\portfolio\\fullsize\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\fullsize\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\SoftwareEngineering.VisualBookshelfNTier\\SoftwareEngineering.VisualBookshelfNTier.UI\\wwwroot\\assets\\img\\portfolio\\fullsize\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\fullsize\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\SoftwareEngineering.VisualBookshelfNTier\\SoftwareEngineering.VisualBookshelfNTier.UI\\wwwroot\\assets\\img\\portfolio\\fullsize\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\fullsize\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\SoftwareEngineering.VisualBookshelfNTier\\SoftwareEngineering.VisualBookshelfNTier.UI\\wwwroot\\assets\\img\\portfolio\\fullsize\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\fullsize\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\SoftwareEngineering.VisualBookshelfNTier\\SoftwareEngineering.VisualBookshelfNTier.UI\\wwwroot\\assets\\img\\portfolio\\fullsize\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\fullsize\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\SoftwareEngineering.VisualBookshelfNTier\\SoftwareEngineering.VisualBookshelfNTier.UI\\wwwroot\\assets\\img\\portfolio\\fullsize\\Resim1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\fullsize\\Resim1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\SoftwareEngineering.VisualBookshelfNTier\\SoftwareEngineering.VisualBookshelfNTier.UI\\wwwroot\\assets\\img\\portfolio\\fullsize\\learn-4226965_1280-1080x675.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\fullsize\\learn-4226965_1280-1080x675.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\SoftwareEngineering.VisualBookshelfNTier\\SoftwareEngineering.VisualBookshelfNTier.UI\\wwwroot\\assets\\img\\portfolio\\thumbnails\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\thumbnails\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\SoftwareEngineering.VisualBookshelfNTier\\SoftwareEngineering.VisualBookshelfNTier.UI\\wwwroot\\assets\\img\\portfolio\\thumbnails\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\thumbnails\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\SoftwareEngineering.VisualBookshelfNTier\\SoftwareEngineering.VisualBookshelfNTier.UI\\wwwroot\\assets\\img\\portfolio\\thumbnails\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\thumbnails\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\SoftwareEngineering.VisualBookshelfNTier\\SoftwareEngineering.VisualBookshelfNTier.UI\\wwwroot\\assets\\img\\portfolio\\thumbnails\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\thumbnails\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\SoftwareEngineering.VisualBookshelfNTier\\SoftwareEngineering.VisualBookshelfNTier.UI\\wwwroot\\assets\\img\\portfolio\\thumbnails\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\thumbnails\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\SoftwareEngineering.VisualBookshelfNTier\\SoftwareEngineering.VisualBookshelfNTier.UI\\wwwroot\\assets\\img\\portfolio\\thumbnails\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\thumbnails\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\SoftwareEngineering.VisualBookshelfNTier\\SoftwareEngineering.VisualBookshelfNTier.UI\\wwwroot\\assets\\img\\portfolio\\thumbnails\\Resim1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\thumbnails\\Resim1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\SoftwareEngineering.VisualBookshelfNTier\\SoftwareEngineering.VisualBookshelfNTier.UI\\wwwroot\\assets\\img\\portfolio\\thumbnails\\learn-4226965_1280-1080x675.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\thumbnails\\learn-4226965_1280-1080x675.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\SoftwareEngineering.VisualBookshelfNTier\\SoftwareEngineering.VisualBookshelfNTier.UI\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\SoftwareEngineering.VisualBookshelfNTier\\SoftwareEngineering.VisualBookshelfNTier.UI\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SoftwareEngineering.VisualBookshelfNTier.UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SoftwareEngineering.VisualBookshelfNTier.UI.props",
+      "PackagePath": "build\\SoftwareEngineering.VisualBookshelfNTier.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SoftwareEngineering.VisualBookshelfNTier.UI.props",
+      "PackagePath": "buildMultiTargeting\\SoftwareEngineering.VisualBookshelfNTier.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SoftwareEngineering.VisualBookshelfNTier.UI.props",
+      "PackagePath": "buildTransitive\\SoftwareEngineering.VisualBookshelfNTier.UI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\SoftwareEngineering.VisualBookshelfNTier\SoftwareEngineering.VisualBookshelfNTier.Dtos\bin\Debug\net8.0\SoftwareEngineering.VisualBookshelfNTier.Dtos.deps.json
+C:\Users\pc\source\repos\SoftwareEngineering.VisualBookshelfNTier\SoftwareEngineering.VisualBookshelfNTier.Dtos\bin\Debug\net8.0\SoftwareEngineering.VisualBookshelfNTier.Dtos.dll
+C:\Users\pc\source\repos\SoftwareEngineering.VisualBookshelfNTier\SoftwareEngineering.VisualBookshelfNTier.Dtos\bin\Debug\net8.0\SoftwareEngineering.VisualBookshelfNTier.Dtos.pdb
+C:\Users\pc\source\repos\SoftwareEngineering.VisualBookshelfNTier\SoftwareEngineering.VisualBookshelfNTier.Dtos\obj\Debug\net8.0\SoftwareEngineering.VisualBookshelfNTier.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\SoftwareEngineering.VisualBookshelfNTier\SoftwareEngineering.VisualBookshelfNTier.Dtos\obj\Debug\net8.0\SoftwareEngineering.VisualBookshelfNTier.Dtos.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\SoftwareEngineering.VisualBookshelfNTier\SoftwareEngineering.VisualBookshelfNTier.Dtos\obj\Debug\net8.0\SoftwareEngineering.VisualBookshelfNTier.Dtos.AssemblyInfo.cs
+C:\Users\pc\source\repos\SoftwareEngineering.VisualBookshelfNTier\SoftwareEngineering.VisualBookshelfNTier.Dtos\obj\Debug\net8.0\SoftwareEngineering.VisualBookshelfNTier.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\SoftwareEngineering.VisualBookshelfNTier\SoftwareEngineering.VisualBookshelfNTier.Dtos\obj\Debug\net8.0\SoftwareEngineering.VisualBookshelfNTier.Dtos.dll
+C:\Users\pc\source\repos\SoftwareEngineering.VisualBookshelfNTier\SoftwareEngineering.VisualBookshelfNTier.Dtos\obj\Debug\net8.0\refint\SoftwareEngineering.VisualBookshelfNTier.Dtos.dll
+C:\Users\pc\source\repos\SoftwareEngineering.VisualBookshelfNTier\SoftwareEngineering.VisualBookshelfNTier.Dtos\obj\Debug\net8.0\SoftwareEngineering.VisualBookshelfNTier.Dtos.pdb
+C:\Users\pc\source\repos\SoftwareEngineering.VisualBookshelfNTier\SoftwareEngineering.VisualBookshelfNTier.Dtos\obj\Debug\net8.0\ref\SoftwareEngineering.VisualBookshelfNTier.Dtos.dll
